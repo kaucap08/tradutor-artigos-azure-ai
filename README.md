@@ -1,0 +1,1 @@
+# tradutor-artigos-azure-ai
